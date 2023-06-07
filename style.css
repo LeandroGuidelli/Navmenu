@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav-content{
+    background-color: #ff0000;
+}
+
+#ul-content{
+    list-style: none; 
+    display:flex;
+    width: 30%;
+}
+
+#list-content{
+    color:#fff;
+    padding: 30px;
+}
+
